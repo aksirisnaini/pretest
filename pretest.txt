@@ -1,0 +1,8 @@
+1. PUT untuk menambahkan data ke database, karena PUT pada umumnya tidak perlu menggunakan form-data, apalagi pakenya di javascript. Biasanya PUT menggunakan x-www-form-urlencoded atau JSON.
+PATCH dapat digunakan untuk memperbarui data secara parsial. Misalnya, ketika  hanya perlu memperbarui satu bidang sumber daya, PUT representasi sumber daya lengkap mungkin merepotkan dan menggunakan lebih banyak bandwidth.
+
+6. Argumen di tulis di dalam tanda kurung, dan dipisahkan dengan koma jika memiliki lebih dari satu argumen. Misal, Fungsi alert() membuat kotak pop-up terlihat pada jendela browser, namun kita perlu memberikan string sebagai sebuah argumen untuk mengatakan pada fungsi alert()pesan apa yang harus di tampilkan pada kotak po-pup.
+
+10. Kode kedua
+
+Maaf, banyak yang belum saya ngerti:(
